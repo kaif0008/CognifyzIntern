@@ -11,6 +11,12 @@ Welcome to my official GitHub repository for the **Java Development Internship**
 📧 Email: contact@cognifyz.com  
 📱 Instagram: [@cognifyz_tech](https://www.instagram.com/cognifyz_tech)
 
+## 🔗 Connect with Me <br>
+I'm Kaif Ansari, passionate about Java development and backend technologies.
+
+📬 LinkedIn: https://www.linkedin.com/in/kaif-ansari-3b264b279/ <br>
+📧 Email: mrkaif7295@gmail.com
+
 ## 📁 Repository Structure
 
 ├── Level-1<br>
@@ -65,7 +71,9 @@ Welcome to my official GitHub repository for the **Java Development Internship**
 - IDE (e.g., IntelliJ IDEA, Eclipse) or terminal with `javac`
 
 Compile and run:
-
 ```bash
 javac TaskName.java
 java TaskName
+
+
+
